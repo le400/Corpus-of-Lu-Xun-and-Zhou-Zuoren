@@ -11,13 +11,13 @@
 
 ## 文件结构
 modern-lu-xun-zhou-zuoren-corpus/
-├── data/ # 原始 & 清洗后语料
-│ ├── luxun_clean.txt # 鲁迅全集
-│ ├── zhouzuoren_clean.txt # 周作人全集
-│ ├── LX_FINAL_OK.txt # 鲁迅清洗后分词语料
-│ └── ZZR_FINAL_OK.txt # 周作人清洗后分词语料
+├── data/
+│ ├── luxun_clean.txt
+│ ├── zhouzuoren_clean.txt
+│ ├── LX_FINAL_OK.txt
+│ └── ZZR_FINAL_OK.txt
 │
-├── docs/ # 分析报告与可视化结果
+├── docs/
 │ ├── corpus_statistics.md
 │ ├── 高频词统计报告_TOP500.md
 │ ├── 语料基础信息汇总.md
@@ -26,19 +26,18 @@ modern-lu-xun-zhou-zuoren-corpus/
 │ ├── 鲁迅_词云.png
 │ └── 周作人_词云.png
 │
-├── scripts/ # 所有数据处理与分析脚本
-│ ├── start.py # 基础清洗脚本
-│ ├── sentence.count.py # 句长分布统计
-│ ├── word_count.py # 词频统计
-│ ├── WORD_COUNT AND CLOUD.py # 词频 + 词云生成
-│ ├── average.py # 平均句长与密度计算
-│ ├── insum.py # 综合信息统计
+├── scripts/
+│ ├── start.py
+│ ├── sentence.count.py
+│ ├── word_count.py
+│ ├── WORD_COUNT AND CLOUD.py
+│ ├── average.py
+│ ├── insum.py
 │ └── 统计报告.md
 │
-├── clean_log.md # 清洗过程记录
-├── LICENSE # 使用协议
-└── README.md # 项目说明文档
-plaintext
+├── clean_log.md
+├── LICENSE
+└── README.md
 
 
 
