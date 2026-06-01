@@ -10,6 +10,7 @@
 - 状态：版权进入公有领域，可合法使用
 
 ## 文件结构
+'''
 modern-lu-xun-zhou-zuoren-corpus/
 ├── data/
 │ ├── luxun_clean.txt
@@ -38,6 +39,7 @@ modern-lu-xun-zhou-zuoren-corpus/
 ├── clean_log.md
 ├── LICENSE
 └── README.md
+'''
 
 
 
