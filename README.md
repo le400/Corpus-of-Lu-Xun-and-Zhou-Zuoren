@@ -14,8 +14,8 @@ modern-lu-xun-zhou-zuoren-corpus/
 ├── data/ # 原始 & 清洗后语料
 │ ├── luxun_clean.txt # 鲁迅全集
 │ ├── zhouzuoren_clean.txt # 周作人全集
-│ ├── LX_FINAL.txt # 鲁迅清洗后分词语料
-│ └── ZZR_FINAL.txt # 周作人清洗后分词语料
+│ ├── LX_FINAL_OK.txt # 鲁迅清洗后分词语料
+│ └── ZZR_FINAL_OK.txt # 周作人清洗后分词语料
 │
 ├── docs/ # 分析报告与可视化结果
 │ ├── corpus_statistics.md
@@ -38,6 +38,8 @@ modern-lu-xun-zhou-zuoren-corpus/
 ├── clean_log.md # 清洗过程记录
 ├── LICENSE # 使用协议
 └── README.md # 项目说明文档
+plaintext
+
 
 
 ## 清洗说明
