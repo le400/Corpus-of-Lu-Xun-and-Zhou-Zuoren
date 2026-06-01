@@ -10,36 +10,38 @@
 - 状态：版权进入公有领域，可合法使用
 
 ## 文件结构
-'''
+
+```text
 modern-lu-xun-zhou-zuoren-corpus/
 ├── data/
-│ ├── luxun_clean.txt
-│ ├── zhouzuoren_clean.txt
-│ ├── LX_FINAL_OK.txt
-│ └── ZZR_FINAL_OK.txt
+│   ├── luxun_clean.txt
+│   ├── zhouzuoren_clean.txt
+│   ├── LX_FINAL_OK.txt
+│   └── ZZR_FINAL_OK.txt
 │
 ├── docs/
-│ ├── corpus_statistics.md
-│ ├── 高频词统计报告_TOP500.md
-│ ├── 语料基础信息汇总.md
-│ ├── 语料深度统计报告.md
-│ ├── 语料综合信息汇总.md
-│ ├── 鲁迅_词云.png
-│ └── 周作人_词云.png
+│   ├── corpus_statistics.md
+│   ├── 高频词统计报告_TOP500.md
+│   ├── 语料基础信息汇总.md
+│   ├── 语料深度统计报告.md
+│   ├── 语料综合信息汇总.md
+│   ├── 鲁迅_词云.png
+│   └── 周作人_词云.png
 │
 ├── scripts/
-│ ├── start.py
-│ ├── sentence.count.py
-│ ├── word_count.py
-│ ├── WORD_COUNT AND CLOUD.py
-│ ├── average.py
-│ ├── insum.py
-│ └── 统计报告.md
+│   ├── start.py
+│   ├── sentence.count.py
+│   ├── word_count.py
+│   ├── WORD_COUNT AND CLOUD.py
+│   ├── average.py
+│   ├── insum.py
+│   └── 统计报告.md
 │
 ├── clean_log.md
 ├── LICENSE
 └── README.md
-'''
+```
+
 
 
 
